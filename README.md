@@ -1,5 +1,7 @@
 # Introduction of this report
 
+I made change 
+
 This report is used for inclass practice of csc260
 We will note all the commands needed for git here!
 
